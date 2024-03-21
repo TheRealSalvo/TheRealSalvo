@@ -5,8 +5,6 @@ My main focus are:
 - 🤖🧠 Machine Learning & Computer Vision
 
 ### 🌚 My Stats
-
-
 [![My GitHub stats](https://github-readme-stats-therealsalvos-projects.vercel.app/api?username=TheRealSalvo&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: My Skills
