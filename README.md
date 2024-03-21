@@ -6,7 +6,8 @@ My main focus are:
 
 ### 🌚 My Stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheRealSalvo&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats-therealsalvos-projects.vercel.app/api?username=TheRealSalvo&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :hammer_and_wrench: My Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,tensorflow,matlab)](https://skillicons.dev)
