@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Salvatore. I am an enginnering at Federico II of Naples.
-My main focus are:
+I'm Salvatore. I am an enginnering student at Federico II University in Naples.
+My primary interests lie in:
 - 🏎️ Autonomous Driving
 - 🤖🧠 Machine Learning & Computer Vision
 
